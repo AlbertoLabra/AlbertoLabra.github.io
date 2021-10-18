@@ -1,0 +1,21 @@
+body{background-color: rgb(19, 93, 116)}
+
+table,tr,th,td{
+    border: rgb(255, 255, 255) solid;
+    color: cyan;
+    margin-left: 15%;
+    margin-right: 15%;}
+p{
+    text-align: justify ;
+    margin: 5%;
+    font-size: 20px;
+    color: cornsilk;
+}
+h1,h2,h3,h4{
+    color:rgb(255, 57, 57);
+   
+}
+a{
+    background-color: black;
+    color: white;
+}

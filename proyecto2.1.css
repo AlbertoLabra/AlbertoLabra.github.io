@@ -1,0 +1,55 @@
+
+
+.poner img{
+    width: 40%;
+   border: rgb(12, 9, 9) solid;
+    
+    height: auto;
+    padding: 5px;
+    box-shadow: 10px 10px 10px 10px rgb(3, 98, 128);
+    margin: auto;
+margin-left: 40px;}
+    
+.base img{
+    width: 40%;
+   border: rgb(12, 9, 9) solid;
+    
+    height: auto;
+    padding: 5px;
+    box-shadow: 10px 10px 10px 10px rgb(3, 98, 128);
+    margin: auto;}
+    .del img{
+        width: 40%;
+       border: rgb(12, 9, 9) solid;
+        
+        height: auto;
+        padding: 5px;
+        box-shadow: 10px 10px 10px 10px rgb(3, 98, 128);
+        margin: auto;}
+a{
+    color: rgb(32, 2, 32) ;
+    font-size: 30px;
+}
+a:hover{
+    background-color: teal;
+    color: thistle;
+    font-size: 30px;
+}
+body{
+    background-color: burlywood;
+}
+h1,h3,h2{
+    color: rgb(17, 11, 105);
+}
+.html{
+    color: rgb(131, 6, 6);
+    font-size: 30px;
+}
+p{color: rgb(54, 22, 22);
+font-size: 20px;}
+div{background-color: burlywood;
+margin-bottom: 45px;
+text-align: justify;}
+.dividendo{
+    margin-left: 2%;
+}
