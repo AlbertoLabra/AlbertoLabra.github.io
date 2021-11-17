@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(77, 22, 2);
+}
+div{
+    background-color: darkgray;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-bottom: 80px;
+}
+.imagen img{
+    
+   border: red solid;
+    
+    height: auto;
+    
+    box-shadow: 10px 10px 10px 10px rgb(5, 150, 155);
+
+    margin-bottom: 30px;
+    margin-left: 5%;}
+
+h1,h2,h3{
+    margin-left: 20px;
+    color: rgb(25, 95, 56);
+}
+p{
+    margin-left: 20px;
+    color: rgb(31, 80, 121);
+    font-size: 20px;
+}
